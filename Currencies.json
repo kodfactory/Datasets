@@ -1,0 +1,317 @@
+[
+  {
+    "exchangeRate": 6.205062359170657,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "HKD",
+    "toCurrencyName": "Hong Kong Dollar"
+  },
+  {
+    "exchangeRate": 0.7958755300308803,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "USD",
+    "toCurrencyName": "USA Dollar"
+  },
+  {
+    "exchangeRate": 0.5743743021401315,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "HKD",
+    "toCurrencyName": "Hong Kong Dollar"
+  },
+  {
+    "exchangeRate": 4.1241228890429635,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "BRL",
+    "toCurrencyName": "Brazil Real"
+  },
+  {
+    "exchangeRate": 0.6743536024489379,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "EUR",
+    "toCurrencyName": "Euro"
+  },
+  {
+    "exchangeRate": 6.4523420895738335,
+    "fromCurrencyCode": "HKD",
+    "fromCurrencyName": "Hong Kong Dollar",
+    "toCurrencyCode": "PHP",
+    "toCurrencyName": "Philippines Peso"
+  },
+  {
+    "exchangeRate": 9.501248238280557,
+    "fromCurrencyCode": "HKD",
+    "fromCurrencyName": "Hong Kong Dollar",
+    "toCurrencyCode": "INR",
+    "toCurrencyName": "India Rupee"
+  },
+  {
+    "exchangeRate": 2941.260411406865,
+    "fromCurrencyCode": "HKD",
+    "fromCurrencyName": "Hong Kong Dollar",
+    "toCurrencyCode": "VND",
+    "toCurrencyName": "Vietnam Dong"
+  },
+  {
+    "exchangeRate": 23.732901444551793,
+    "fromCurrencyCode": "PHP",
+    "fromCurrencyName": "Philippines Peso",
+    "toCurrencyCode": "KRW",
+    "toCurrencyName": "South Korea Won"
+  },
+  {
+    "exchangeRate": 0.0011006027201698164,
+    "fromCurrencyCode": "KRW",
+    "fromCurrencyName": "South Korea Won",
+    "toCurrencyCode": "SGD",
+    "toCurrencyName": "Singapore Dollar"
+  },
+  {
+    "exchangeRate": 24.52692659655047,
+    "fromCurrencyCode": "SGD",
+    "fromCurrencyName": "Singapore Dollar",
+    "toCurrencyCode": "THB",
+    "toCurrencyName": "Thailand Baht"
+  },
+  {
+    "exchangeRate": 110.36891226798627,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "JPY",
+    "toCurrencyName": "Japan Yen"
+  },
+  {
+    "exchangeRate": 19.919587799601782,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "MXN",
+    "toCurrencyName": "Mexico Peso"
+  },
+  {
+    "exchangeRate": 3.7669995381718873,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "SAR",
+    "toCurrencyName": "Saudi Arabia Riyal"
+  },
+  {
+    "exchangeRate": 11.395657125599353,
+    "fromCurrencyCode": "SAR",
+    "fromCurrencyName": "Saudi Arabia Riyal",
+    "toCurrencyCode": "UYU",
+    "toCurrencyName": "Uruguay Peso"
+  },
+  {
+    "exchangeRate": 45.91357419137331,
+    "fromCurrencyCode": "SAR",
+    "fromCurrencyName": "Saudi Arabia Riyal",
+    "toCurrencyCode": "LRD",
+    "toCurrencyName": "Liberia Dollar"
+  },
+  {
+    "exchangeRate": 118.02794465686482,
+    "fromCurrencyCode": "SAR",
+    "fromCurrencyName": "Saudi Arabia Riyal",
+    "toCurrencyCode": "SDG",
+    "toCurrencyName": "Sudan Pound"
+  },
+  {
+    "exchangeRate": 0.801927948014758,
+    "fromCurrencyCode": "LRD",
+    "fromCurrencyName": "Liberia Dollar",
+    "toCurrencyCode": "DZD",
+    "toCurrencyName": "Algeria Dinar"
+  },
+  {
+    "exchangeRate": 238.38549542288072,
+    "fromCurrencyCode": "GBP",
+    "fromCurrencyName": "Great Britain Pound",
+    "toCurrencyCode": "LRD",
+    "toCurrencyName": "Liberia Dollar"
+  },
+  {
+    "exchangeRate": 2118.48500053285,
+    "fromCurrencyCode": "GBP",
+    "fromCurrencyName": "Great Britain Pound",
+    "toCurrencyCode": "LBP",
+    "toCurrencyName": "Lebanon Pound"
+  },
+  {
+    "exchangeRate": 12.06125235150257,
+    "fromCurrencyCode": "GBP",
+    "fromCurrencyName": "Great Britain Pound",
+    "toCurrencyCode": "NOK",
+    "toCurrencyName": "Norway Kroner"
+  },
+  {
+    "exchangeRate": 1.0026917351566953,
+    "fromCurrencyCode": "NOK",
+    "fromCurrencyName": "Norway Kroner",
+    "toCurrencyCode": "SEK",
+    "toCurrencyName": "Sweden Krona"
+  },
+  {
+    "exchangeRate": 0.9865938628056617,
+    "fromCurrencyCode": "SEK",
+    "fromCurrencyName": "Sweden Krona",
+    "toCurrencyCode": "TRY",
+    "toCurrencyName": "Turkish New Lira"
+  },
+  {
+    "exchangeRate": 0.11092684659876137,
+    "fromCurrencyCode": "SEK",
+    "fromCurrencyName": "Sweden Krona",
+    "toCurrencyCode": "CHF",
+    "toCurrencyName": "Switzerland Franc"
+  },
+  {
+    "exchangeRate": 1.3040378012342453,
+    "fromCurrencyCode": "BRL",
+    "fromCurrencyName": "Brazil Real",
+    "toCurrencyCode": "TTD",
+    "toCurrencyName": "Trinidad/Tobago Dollar"
+  },
+  {
+    "exchangeRate": 8.195977224183443,
+    "fromCurrencyCode": "BRL",
+    "fromCurrencyName": "Brazil Real",
+    "toCurrencyCode": "UYU",
+    "toCurrencyName": "Uruguay Peso"
+  },
+  {
+    "exchangeRate": 0.06528864723775944,
+    "fromCurrencyCode": "UYU",
+    "fromCurrencyName": "Uruguay Peso",
+    "toCurrencyCode": "TND",
+    "toCurrencyName": "Tunisia Dinar"
+  },
+  {
+    "exchangeRate": 18.96736851445143,
+    "fromCurrencyCode": "BRL",
+    "fromCurrencyName": "Brazil Real",
+    "toCurrencyCode": "ARS",
+    "toCurrencyName": "Argentina Peso"
+  },
+  {
+    "exchangeRate": 1.6607720461984268,
+    "fromCurrencyCode": "EUR",
+    "fromCurrencyName": "Euro",
+    "toCurrencyCode": "NZD",
+    "toCurrencyName": "New Zealand Dollar"
+  },
+  {
+    "exchangeRate": 1.615678702007863,
+    "fromCurrencyCode": "EUR",
+    "fromCurrencyName": "Euro",
+    "toCurrencyCode": "AUD",
+    "toCurrencyName": "Australia Dollar"
+  },
+  {
+    "exchangeRate": 2.393476335624581,
+    "fromCurrencyCode": "EUR",
+    "fromCurrencyName": "Euro",
+    "toCurrencyCode": "BZD",
+    "toCurrencyName": "Belize Dollar"
+  },
+  {
+    "exchangeRate": 0.41347058449337104,
+    "fromCurrencyCode": "BBD",
+    "fromCurrencyName": "Barbados Dollar",
+    "toCurrencyCode": "KYD",
+    "toCurrencyName": "Cayman Islands Dollar"
+  },
+  {
+    "exchangeRate": 6.470252658186193,
+    "fromCurrencyCode": "USD",
+    "fromCurrencyName": "USA Dollar",
+    "toCurrencyCode": "CNY",
+    "toCurrencyName": "China Yuan/Renminbi"
+  },
+  {
+    "exchangeRate": 1.212554558754534,
+    "fromCurrencyCode": "CNY",
+    "fromCurrencyName": "China Yuan/Renminbi",
+    "toCurrencyCode": "HKD",
+    "toCurrencyName": "Hong Kong Dollar"
+  },
+  {
+    "exchangeRate": 0.8534639073781918,
+    "fromCurrencyCode": "EUR",
+    "fromCurrencyName": "Euro",
+    "toCurrencyCode": "GBP",
+    "toCurrencyName": "Great Britain Pound"
+  },
+  {
+    "exchangeRate": 0.00001810777549418688,
+    "fromCurrencyCode": "CAD",
+    "fromCurrencyName": "Canada Dollar",
+    "toCurrencyCode": "BTC",
+    "toCurrencyName": "Bitcoin"
+  },
+  {
+    "exchangeRate": 14.25082486787159,
+    "fromCurrencyCode": "BTC",
+    "fromCurrencyName": "Bitcoin",
+    "toCurrencyCode": "ETH",
+    "toCurrencyName": "Ethereum"
+  },
+  {
+    "exchangeRate": 4942586.364511917,
+    "fromCurrencyCode": "BTC",
+    "fromCurrencyName": "Bitcoin",
+    "toCurrencyCode": "BAN",
+    "toCurrencyName": "Banano"
+  },
+  {
+    "exchangeRate": 8451.228153048447,
+    "fromCurrencyCode": "BTC",
+    "fromCurrencyName": "Bitcoin",
+    "toCurrencyCode": "NANO",
+    "toCurrencyName": "Nano"
+  },
+  {
+    "exchangeRate": 2.4148539610072866,
+    "fromCurrencyCode": "NANO",
+    "fromCurrencyName": "Nano",
+    "toCurrencyCode": "ADA",
+    "toCurrencyName": "Cardano"
+  },
+  {
+    "exchangeRate": 23.970399164762412,
+    "fromCurrencyCode": "NANO",
+    "fromCurrencyName": "Nano",
+    "toCurrencyCode": "DOGE",
+    "toCurrencyName": "Dogecoin"
+  },
+  {
+    "exchangeRate": 0.013302378918078808,
+    "fromCurrencyCode": "ADA",
+    "fromCurrencyName": "Cardano",
+    "toCurrencyCode": "LTC",
+    "toCurrencyName": "Litecoin"
+  },
+  {
+    "exchangeRate": 1.1646150587142454,
+    "fromCurrencyCode": "ADA",
+    "fromCurrencyName": "Cardano",
+    "toCurrencyCode": "ALGO",
+    "toCurrencyName": "Algorand"
+  },
+  {
+    "exchangeRate": 0.00381840206670307,
+    "fromCurrencyCode": "ALGO",
+    "fromCurrencyName": "Alogorand",
+    "toCurrencyCode": "BCH",
+    "toCurrencyName": "BitcoinCash"
+  },
+  {
+    "exchangeRate": 76.94130876247449,
+    "fromCurrencyCode": "BTC",
+    "fromCurrencyName": "Bitcoin",
+    "toCurrencyCode": "BCH",
+    "toCurrencyName": "BitcoinCash"
+  }
+]
